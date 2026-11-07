@@ -1,5 +1,13 @@
 # TrafficFlowBench 2026: causal state reconstruction and queue forecasting under a hidden regime shift
 
+<p>
+  <img alt="top language" src="https://img.shields.io/github/languages/top/WaelYTz/trafficflowbench-2026?style=flat-square">
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/WaelYTz/trafficflowbench-2026?style=flat-square">
+  <img alt="repo size" src="https://img.shields.io/github/repo-size/WaelYTz/trafficflowbench-2026?style=flat-square">
+  <img alt="license" src="https://img.shields.io/github/license/WaelYTz/trafficflowbench-2026?style=flat-square">
+</p>
+
+
 Solution of team **WaelYT** (Zitouni Ouail Imad eddine, ESI Algiers) for the
 [2026 IEEE Big Data Cup: TrafficFlowBench](https://www.kaggle.com/competitions/2026-ieee-big-data-traffic-flow-bench).
 The competition asks for four things on ten synthetic freeway corridors:
