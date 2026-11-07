@@ -1,0 +1,17 @@
+D7_I10_E validation: checked 5, cut==full 5, full==v51 file 5, neg control changed 0
+D7_I10_E private: checked 10, cut==full 10, full==v51 file 10, neg control changed 0
+D7_I10_W validation: checked 15, cut==full 15, full==v51 file 15, neg control changed 1
+D7_I10_W private: checked 20, cut==full 20, full==v51 file 20, neg control changed 1
+D7_I210_E validation: checked 25, cut==full 25, full==v51 file 25, neg control changed 1
+D7_I210_E private: checked 30, cut==full 30, full==v51 file 30, neg control changed 1
+D7_I210_W validation: checked 35, cut==full 35, full==v51 file 35, neg control changed 2
+D7_I210_W private: checked 40, cut==full 40, full==v51 file 40, neg control changed 3
+D7_I405_N validation: checked 45, cut==full 45, full==v51 file 45, neg control changed 4
+D7_I405_N private: checked 50, cut==full 50, full==v51 file 50, neg control changed 4
+D7_I405_S validation: checked 55, cut==full 55, full==v51 file 55, neg control changed 6
+D7_I405_S private: checked 60, cut==full 60, full==v51 file 60, neg control changed 6
+D12_I5_N validation: checked 65, cut==full 65, full==v51 file 65, neg control changed 7
+D12_I5_N private: checked 70, cut==full 70, full==v51 file 70, neg control changed 7
+D12_I5_S validation: checked 75, cut==full 75, full==v51 file 75, neg control changed 7
+D12_I5_S private: checked 80, cut==full 80, full==v51 file 80, neg control changed 8
+DONE: 80 onset windows; identical after post-T deletion 80/80; reproduce v51 queue 80/80; negative control (cut a day early) changed 8

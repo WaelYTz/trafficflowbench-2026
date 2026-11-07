@@ -1,0 +1,28 @@
+# competition data, caches and generated outputs (rebuilt by the pipeline)
+data/
+kaggle_public/
+cache/
+out/
+out_*/
+ext/
+kaggle_pkg/src_ds/*
+!kaggle_pkg/src_ds/README.md
+catboost_info/
+*.npz
+*.npy
+*.pkl
+*.pt
+*.parquet
+*.zip
+*.cbm
+report/report.html
+# credentials and local tooling
+.kaggle/
+kaggle.json
+.env
+.claude/
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

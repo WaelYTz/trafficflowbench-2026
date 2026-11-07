@@ -1,0 +1,82 @@
+ref,fileName,date,description,status,publicScore,privateScore
+58076057,out/sub_pub_stF_f0_y7_r3_q80_s80_n90-60_g100_nf6.zip,2026-11-07 02:10:17.990000,v53 final: sub_pub_stF_f0_y7_r3_q80_s80_n90-60_g100_nf6.zip,SubmissionStatus.COMPLETE,0.88641,0.87615
+58076030,out/sub_pub_stF_f0_y7_r3_q80_s80_n90-60_g100_nf5.zip,2026-11-07 02:09:04.410000,v53 final: sub_pub_stF_f0_y7_r3_q80_s80_n90-60_g100_nf5.zip,SubmissionStatus.COMPLETE,0.88650,0.87623
+58075999,out/sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf6.zip,2026-11-07 02:07:53.380000,v53 final: sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf6.zip,SubmissionStatus.COMPLETE,0.88645,0.87617
+58075970,out/sub_pub_stF_f0_y4_r2_q85_s80_n90-60_g100_nf6.zip,2026-11-07 02:06:42.040000,v53 final: sub_pub_stF_f0_y4_r2_q85_s80_n90-60_g100_nf6.zip,SubmissionStatus.COMPLETE,0.88637,0.87612
+58075928,out/sub_pub_stF_f0_y4_r2_q85_s80_n85-50_g100_nf5.zip,2026-11-07 02:05:31.173000,v53 final: sub_pub_stF_f0_y4_r2_q85_s80_n85-50_g100_nf5.zip,SubmissionStatus.COMPLETE,0.88649,0.87623
+58040623,out/sub_lift_stF_f0_y7_r3_q80_s80_n85-50_g100_nf5.zip,2026-11-06 01:02:21.397000,"v52 previous-month onset lift (Feb lift on March windows, March lift on April) on nf5",SubmissionStatus.COMPLETE,0.87878,0.87813
+58039676,out/sub_msmU_stF_f0_y7_r3_q80_s80_n85-50_g100_nf5.zip,2026-11-06 00:24:38.493000,v51 msmU onset on nf5 config (pick-B candidate: decorrelated onset),SubmissionStatus.COMPLETE,0.88076,0.88281
+58038688,out/sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf5.zip,2026-11-06 00:02:47.633000,v47 nf5: nf3 config + width-96 NN members (t1nn_post5),SubmissionStatus.COMPLETE,0.88653,0.87625
+58038429,out/probe_state_f0_y7_r3_q80_s80_n85-50_g100_nf3_a100-100-999.zip,2026-11-06 00:01:12.410000,v46 state-only probe B: anchor-offset density correction w1 alpha1 all runs (vs 0.44182),SubmissionStatus.COMPLETE,0.41821,0.41790
+58005039,out/probe_state_f0_y7_r3_q80_s80_n85-50_g100_nf3.zip,2026-11-05 01:25:41.923000,v45 state-only probe of nf3 best (0.35 S_state + 0.15 S_phys),SubmissionStatus.COMPLETE,0.44182,0.44168
+58003599,out/sub_msmA_stF_f0_y7_r3_q80_s80_n85-50_g100_nf2.zip,2026-11-05 00:28:37.480000,"v44 month-pure memory onset, strict gate (2 public windows)",SubmissionStatus.COMPLETE,0.88268,0.88214
+58003544,out/sub_msmU_stF_f0_y7_r3_q80_s80_n85-50_g100_nf2.zip,2026-11-05 00:26:05.450000,v44 month-pure memory onset (ungated) + nf2 best config,SubmissionStatus.COMPLETE,0.88054,0.88253
+58003265,out/sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf4.zip,2026-11-05 00:16:24.710000,v43 sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf4.zip (NN seeds / transductive fine-tune),SubmissionStatus.COMPLETE,0.88628,0.87602
+58003261,out/sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf3.zip,2026-11-05 00:16:19.570000,v43 sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf3.zip (NN seeds / transductive fine-tune),SubmissionStatus.COMPLETE,0.88634,0.87602
+57984800,out/sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf2.zip,2026-11-04 12:42:17.243000,ours share test: sub_pub_stF_f0_y7_r3_q80_s80_n85-50_g100_nf2.zip,SubmissionStatus.COMPLETE,0.88631,0.87597
+57984794,out/sub_pub_stF_f0_s80_n85-50_g100_nf2.zip,2026-11-04 12:42:13.057000,ours share test: sub_pub_stF_f0_s80_n85-50_g100_nf2.zip,SubmissionStatus.COMPLETE,0.88595,0.87563
+57963930,out/sub_pub_stF_f0_y22_r8_q60_s80_n85-50_g100_nf2.zip,2026-11-04 00:03:29.003000,neural T1 v2: sub_pub_stF_f0_y22_r8_q60_s80_n85-50_g100_nf2,SubmissionStatus.COMPLETE,0.88611,0.87573
+57963922,out/sub_pub_stF_f0_y15_r5_q70_s80_n75-40_g100_nf2.zip,2026-11-04 00:03:24.857000,neural T1 v2: sub_pub_stF_f0_y15_r5_q70_s80_n75-40_g100_nf2,SubmissionStatus.COMPLETE,0.88625,0.87587
+57963908,out/sub_pub_stF_f0_y22_r8_q60_s80_n75-40_g100_nf2.zip,2026-11-04 00:03:19.273000,neural T1 v2: sub_pub_stF_f0_y22_r8_q60_s80_n75-40_g100_nf2,SubmissionStatus.COMPLETE,0.88605,0.87566
+57956752,out/sub_pub_stF_f0_y22_r8_q60_s80_n70-40_g100.zip,2026-11-03 18:13:17.893000,neural T1: sub_pub_stF_f0_y22_r8_q60_s80_n70-40_g100,SubmissionStatus.COMPLETE,0.88519,0.87480
+57956746,out/sub_pub_stF_f0_y30_r10_q50_s80_n90-55_g100.zip,2026-11-03 18:13:14.243000,neural T1: sub_pub_stF_f0_y30_r10_q50_s80_n90-55_g100,SubmissionStatus.COMPLETE,0.88497,0.87459
+57956505,out/sub_pub_stF_f0_y30_r10_q50_s80_n0-0_g90.zip,2026-11-03 18:02:56.183000,neural T1 imputer: sub_pub_stF_f0_y30_r10_q50_s80_n0-0_g90,SubmissionStatus.COMPLETE,0.88357,0.87297
+57956503,out/sub_pub_stF_f0_y30_r10_q50_s80_n70-40_g100.zip,2026-11-03 18:02:52.537000,neural T1 imputer: sub_pub_stF_f0_y30_r10_q50_s80_n70-40_g100,SubmissionStatus.COMPLETE,0.88491,0.87450
+57956501,out/sub_pub_stF_f0_y30_r10_q50_s80_n50-30_g90.zip,2026-11-03 18:02:47.870000,neural T1 imputer: sub_pub_stF_f0_y30_r10_q50_s80_n50-30_g90,SubmissionStatus.COMPLETE,0.88472,0.87426
+57918357,out/sub_ost_st10F_f0_y30_r10_q50_s80.zip,2026-11-02 18:48:42.400000,"onset space-time blend (place-free, in-window, w0.4 thr0.5) on 10-seed ST ongoing",SubmissionStatus.COMPLETE,0.88070,0.87452
+57918159,out/sub_pub_st10F_f0_y22_r8_q60_s80.zip,2026-11-02 18:41:05.197000,space-time ongoing 10 seeds: sub_pub_st10F_f0_y22_r8_q60_s80,SubmissionStatus.COMPLETE,0.88134,0.87169
+57918155,out/sub_pub_st10F_f0_y30_r10_q50_s80.zip,2026-11-02 18:41:00.757000,space-time ongoing 10 seeds: sub_pub_st10F_f0_y30_r10_q50_s80,SubmissionStatus.COMPLETE,0.88156,0.87193
+57916075,out/sub_pub_st50F_f0_y30_r10_q50_s80.zip,2026-11-02 17:13:00.673000,space-time ongoing (5 seeds): sub_pub_st50F_f0_y30_r10_q50_s80,SubmissionStatus.COMPLETE,0.88260,0.87454
+57916072,out/sub_pub_stF_f0_y30_r10_q50_s80.zip,2026-11-02 17:12:55.010000,space-time ongoing (5 seeds): sub_pub_stF_f0_y30_r10_q50_s80,SubmissionStatus.COMPLETE,0.88291,0.87215
+57870342,out/sub_pubwin_yrF_f0_y30_r10_q50_s80.zip,2026-11-01 11:37:00.717000,onset bottleneck-feature blend: sub_pubwin_yrF_f0_y30_r10_q50_s80,SubmissionStatus.COMPLETE,0.87551,0.87551
+57870338,out/sub_pubbn_yrF_f0_y30_r10_q50_s80.zip,2026-11-01 11:36:57.153000,onset bottleneck-feature blend: sub_pubbn_yrF_f0_y30_r10_q50_s80,SubmissionStatus.COMPLETE,0.87676,0.87471
+57868435,out/sub_pub_yrF_f0_y30_r10_q50_s80.zip,2026-11-01 10:15:09.133000,"T1 big (tfb-t1big, cap 8000, Feb 0.9502) + yrF + s80",SubmissionStatus.COMPLETE,0.88013,0.87373
+57854945,out/sub_pub_yrF_f0_y30_r10_q50_s80.zip,2026-11-01 00:17:27.680000,T1 shock model (tfb-t1shock): sub_pub_yrF_f0_y30_r10_q50_s80,SubmissionStatus.COMPLETE,0.87981,0.87340
+57854940,out/sub_pub_yrF_f0_y30_r10_q50.zip,2026-11-01 00:17:23.913000,T1 shock model (tfb-t1shock): sub_pub_yrF_f0_y30_r10_q50,SubmissionStatus.COMPLETE,0.87928,0.87288
+57852244,out/sub_pub_yrF_f0_y30_r10_q50_s80.zip,2026-10-31 22:37:55.260000,pub onset + young+ramps ongoing (bridged memory) + T1 0.6/0.3/0.1 flow 0.5 + shock 0.8,SubmissionStatus.COMPLETE,0.87971,0.87347
+57849975,out/sub_pub_c8_f0_y22_r8_q60.zip,2026-10-31 20:30:38.023000,T1 blend per-variable: sub_pub_c8_f0_y22_r8_q60,SubmissionStatus.COMPLETE,0.87685,0.86878
+57849970,out/sub_pub_c8_f0_y38_r12_q60.zip,2026-10-31 20:30:32.220000,T1 blend per-variable: sub_pub_c8_f0_y38_r12_q60,SubmissionStatus.COMPLETE,0.87679,0.86866
+57849967,out/sub_pub_c8_f0_y30_r10_q70.zip,2026-10-31 20:30:26.997000,T1 blend per-variable: sub_pub_c8_f0_y30_r10_q70,SubmissionStatus.COMPLETE,0.87673,0.86862
+57849962,out/sub_pub_c8_f0_y30_r10_q50.zip,2026-10-31 20:30:21.947000,T1 blend per-variable: sub_pub_c8_f0_y30_r10_q50,SubmissionStatus.COMPLETE,0.87698,0.86888
+57787348,out/sub_pubo50_c8_f0_y30_r10.zip,2026-10-30 00:42:21.513000,onset thr 0.50 test,SubmissionStatus.COMPLETE,0.87366,0.86842
+57787344,out/probe_q_ogonly_c8.zip,2026-10-30 00:42:18.307000,"ongoing-only probe, c8",SubmissionStatus.COMPLETE,0.12497,0.12959
+57787342,out/probe_state_f0.zip,2026-10-30 00:42:15.037000,"state-only probe, ours only",SubmissionStatus.COMPLETE,0.43439,0.43414
+57787340,out/probe_state_f0_y30_r10.zip,2026-10-30 00:42:11.787000,"state-only probe, best blend",SubmissionStatus.COMPLETE,0.43679,0.43634
+57786417,out/sub_g_c8_f0_y30_r10.zip,2026-10-30 00:10:23.170000,Pick A: memory onset + c8 + best T1 blend,SubmissionStatus.COMPLETE,0.86825,0.87880
+57774888,out/sub_pub_c8t50_f0_y30_r10.zip,2026-10-29 15:13:43.460000,ongoing thr 0.50,SubmissionStatus.COMPLETE,0.87674,0.86830
+57774884,out/sub_pub_c8t40_f0_y30_r10.zip,2026-10-29 15:13:40.223000,ongoing thr 0.40,SubmissionStatus.COMPLETE,0.87537,0.86927
+57752056,out/sub_pub_lp_f0_y40.zip,2026-10-29 00:02:48.280000,ongoing CNN trained on official-like windows (pers<=0.9) + pub onset + T1 0.6/0.4 yeash,SubmissionStatus.COMPLETE,0.87380,0.86617
+57751818,out/sub_pub_c8_f0_y50.zip,2026-10-29 00:01:09.613000,T1 state 0.5 ours + 0.5 yeash,SubmissionStatus.COMPLETE,0.87685,0.86873
+57751800,out/sub_pub_c8_f0_y30_r10.zip,2026-10-29 00:01:05.540000,T1 state 0.6 ours + 0.3 yeash + 0.1 robin physics-guided,SubmissionStatus.COMPLETE,0.87690,0.86880
+57745114,out/sub_pub_c8_f0_y40.zip,2026-10-28 18:02:01.847000,"T1 state 0.6 ours + 0.4 yeash (pub onset, c8)",SubmissionStatus.COMPLETE,0.87688,0.86878
+57744827,out/sub_pub_c8e_f30.zip,2026-10-28 17:50:29.760000,ongoing expected-IoU decoding (a 1.3) + pub onset + T1 f30,SubmissionStatus.COMPLETE,0.87525,0.86767
+57744733,out/sub_pub_c8_f10_y30.zip,2026-10-28 17:45:55.420000,T1 state 0.6 ours + 0.1 anubisyy + 0.3 yeash,SubmissionStatus.COMPLETE,0.87676,0.86863
+57744731,out/sub_pub_c8_f10_y20.zip,2026-10-28 17:45:50.647000,T1 state 0.7 ours + 0.1 anubisyy + 0.2 yeash,SubmissionStatus.COMPLETE,0.87654,0.86844
+57744729,out/sub_pub_c8_f20_y20.zip,2026-10-28 17:45:45.300000,"T1 state 0.6 ours + 0.2 anubisyy + 0.2 yeash (pub onset, c8)",SubmissionStatus.COMPLETE,0.87659,0.86843
+57681656,out/sub_iso12_c8_f30.zip,2026-10-27 00:00:36.087000,pub + only D12_I5_S_003 switched,SubmissionStatus.COMPLETE,0.87610,0.86795
+57681638,out/sub_gate9_c8_f30.zip,2026-10-27 00:00:31.680000,gate tau 0.9 (8 public windows),SubmissionStatus.COMPLETE,0.86878,0.87982
+57679184,out/sub_gate_c8_f30.zip,2026-10-26 21:37:17.267000,"gate onset (pub; rec7g where memory shows a moved bottleneck, tau 0.8) + c8 ongoing + T1 f30 + T4 L2",SubmissionStatus.COMPLETE,0.87235,0.87982
+57647669,out/sub_pT_c10_f30.zip,2026-10-26 00:35:17.677000,row-at-T onset bag + CNN-only ongoing + T1 f30,SubmissionStatus.COMPLETE,0.86917,0.86465
+57647665,out/sub_pT_c8_f30.zip,2026-10-26 00:35:13.507000,"row-at-T public-recipe onset bag (5 LGBM + 3 Cat, thr 0.5) + c8 ongoing + T1 f30",SubmissionStatus.COMPLETE,0.87058,0.86589
+57645732,out/sub_pub_c8_f50.zip,2026-10-26 00:00:54.450000,public onset + c8 ongoing + T1 fine-tuned 50% public state,SubmissionStatus.COMPLETE,0.87576,0.86751
+57645719,out/sub_pub_nm_f30.zip,2026-10-26 00:00:49.933000,public onset + memory-free ongoing (0.2 base + 0.8 no-mem CNN) + T1 f30,SubmissionStatus.COMPLETE,0.86983,0.86709
+57610552,out/sub_pub_c8_f30.zip,2026-10-25 00:05:15.880000,public onset + ongoing c8 + T1 month+finetune+30% public,SubmissionStatus.COMPLETE,0.87610,0.86795
+57610376,out/sub_g_c8_f30.zip,2026-10-25 00:03:44.853000,rec7g onset + ongoing CNN weight 0.8 + T1 f30,SubmissionStatus.COMPLETE,0.86744,0.87795
+57610367,out/sub_g_g_f30.zip,2026-10-25 00:03:40.790000,rec7g queue + T1 month profiles + fine-tuning + 30% public state,SubmissionStatus.COMPLETE,0.86691,0.88030
+57610362,out/probe_q_omix_onset.zip,2026-10-25 00:03:36.663000,"probe: onset 0.5 rec7g + 0.5 public (0.4, top-2)",SubmissionStatus.COMPLETE,0.11146,0.10616
+57610351,out/probe_q_pub_onset.zip,2026-10-25 00:03:31.970000,"probe: public anubisyy onset only (0.55, top-1)",SubmissionStatus.COMPLETE,0.11639,0.10413
+57578146,out/sub_rec7g_t1m.zip,2026-10-24 01:25:18,rec7g + T1 v2 with month-own profiles,SubmissionStatus.COMPLETE,0.86505,0.87818
+57578143,out/sub_rec7g.zip,2026-10-24 01:25:10.747000,rec7g full: T1 v2 + rec7g queue + T4 L2,SubmissionStatus.COMPLETE,0.86390,0.87671
+57578138,probe_q_rec7n_onset.zip,2026-10-24 01:25:03.517000,"probe: rec7n onset-only (CNN alone, 5 seeds)",SubmissionStatus.COMPLETE,0.09399,0.10868
+57578130,probe_q_rec7g_onset.zip,2026-10-24 01:24:47.307000,probe: rec7g onset-only (0.5 LGBM rec7c + 0.25 CNN x5 + 0.25 place-free CNN x3),SubmissionStatus.COMPLETE,0.10773,0.11413
+57578120,probe_q_rec7e_onset.zip,2026-10-24 01:24:19.060000,"probe: rec7e onset-only (0.7 LGBM rec7c + 0.3 CNN, 3 seeds)",SubmissionStatus.COMPLETE,0.10535,0.11393
+57566833,probe_q_t2f_onset_top2.zip,2026-10-23 16:31:05.990000,"probe: onset-only, t2f, exactly top-2 links at T+30",SubmissionStatus.COMPLETE,0.06593,0.06135
+57566657,probe_q_t2f_onset_c55.zip,2026-10-23 16:22:56.370000,"probe: onset-only, t2f memory-free, thr 0.55 top-1 fallback",SubmissionStatus.COMPLETE,0.10900,0.10453
+57566521,probe_q_t2f_onset.zip,2026-10-23 16:16:24.250000,"probe: onset-only queue, t2f memory-free (Feb onset 0.870)",SubmissionStatus.COMPLETE,0.10915,0.10728
+57542968,out/sub_t2cf.zip,2026-10-23 00:29:42.587000,"t2cf: LGBM T2 (Feb IoU 0.896, refit incl Feb) + T1 v2 (hold 0.9487) + T4 L2",SubmissionStatus.COMPLETE,0.85538,0.85815
+57542915,probe_q_t2cf_onset.zip,2026-10-23 00:27:27.807000,"probe: queue rows only (t2c final), ongoing blank -> 0.15 x onset IoU",SubmissionStatus.COMPLETE,0.10352,0.10451
+57536980,out/probe_state_only.zip,2026-10-22 20:05:07.620000,probe: state rows only (0.35 S_state + 0.15 S_phys),SubmissionStatus.COMPLETE,0.43218,0.43117
+57536975,out/submission.zip,2026-10-22 20:04:56.640000,v1 full: XGB T1 (hold 0.9467) + T2 baseline (persist/onset top3) + T4 L2,SubmissionStatus.COMPLETE,0.80565,0.80181
+57530741,probe_t4_klpool.zip,2026-10-22 15:57:09.340000,probe T4 only: klpool,SubmissionStatus.COMPLETE,0.14452,0.14454
+57530717,probe_t4_kl.zip,2026-10-22 15:56:29.367000,probe T4 only: kl,SubmissionStatus.COMPLETE,0.16850,0.16872
+57530689,probe_t4_l2.zip,2026-10-22 15:55:22.203000,probe T4 only: l2,SubmissionStatus.COMPLETE,0.19874,0.19872

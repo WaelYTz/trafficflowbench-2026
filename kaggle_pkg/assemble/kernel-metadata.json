@@ -1,0 +1,22 @@
+{
+  "id": "waelyt/tfb-assemble",
+  "title": "tfb-assemble",
+  "code_file": "run.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "waelyt/tfb-src"
+  ],
+  "competition_sources": [
+    "2026-ieee-big-data-traffic-flow-bench"
+  ],
+  "kernel_sources": [
+    "waelyt/tfb-t1big",
+    "anubisyy/catboost-lgbm-nnls-pipeline-top-50-0-86517",
+    "yeashusemwal/trafficflowbench-trees-u-net-cnn-lb-0-87",
+    "robinamirbahar/trafficflowbench-physics-guided-state-odme"
+  ]
+}

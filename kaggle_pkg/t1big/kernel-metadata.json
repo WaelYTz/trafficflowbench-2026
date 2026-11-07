@@ -1,0 +1,13 @@
+{
+  "id": "waelyt/tfb-t1big",
+  "title": "tfb-t1big",
+  "code_file": "run.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": ["waelyt/tfb-src"],
+  "competition_sources": ["2026-ieee-big-data-traffic-flow-bench"],
+  "kernel_sources": []
+}
